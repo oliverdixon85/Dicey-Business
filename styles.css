@@ -1,0 +1,14 @@
+
+.die {
+    height: 3em;
+    width: 3em;
+    margin: 0.5em;
+    border: 0.25em solid black;
+    border-radius: 0.25em;
+    font-size: 3em;
+    line-height: 2.5em;
+    text-align: center;
+    flex-direction: row;
+    position: relative;
+    float: left;
+}
